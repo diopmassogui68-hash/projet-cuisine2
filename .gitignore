@@ -1,0 +1,6 @@
+#fichiers systémes
+.Ds_store
+Thumbs.db
+
+#Dossier secrets(clés api)
+secrets/
